@@ -1,5 +1,7 @@
 {
+  
   "Version":"1.0",
+  "ReleaseNotes":["Test"],
   "Servers": [{
         "Name": "THAILAND",
         "FLAG": "TH",
